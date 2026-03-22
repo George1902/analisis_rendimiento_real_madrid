@@ -64,8 +64,8 @@ por similitud de atributos FIFA.
 
 | Cluster | Perfil | Jugadores |
 |---------|--------|-----------|
-| Cluster 0 | Especialistas defensivos/porteros | X jugadores |
-| Cluster 1 | Jugadores de campo completos | X jugadores |
+| Cluster 0 | Especialistas defensivos/porteros | 8 jugadores |
+| Cluster 1 | Jugadores de campo completos | 25 jugadores |
 
 ### Hallazgo clave
 El clustering con K=2 captura de forma natural la división
